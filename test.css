@@ -1,1 +1,45 @@
-http://winhost6.ischool.uw.edu/gclass/files/activities/act_build_html3/introToCss.html
+body {
+	background-image: url('wood_1.png');
+	}
+p{
+	color: white; font-family: "Arial";
+	font-weight: bold
+	}
+a{}
+h3{}
+1i{}
+#Header {
+	text-align: center;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	}
+#Header h1{font-size: 60px; font-family: "Pasion One"; color: #FFBC00; font-weight: bolf; }
+#LeftNav{
+	text-align: center;
+	1. float: left;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	}
+#LeftNav img{}
+#LeftNav u1{
+			list-style-type: none;
+			padding-left: 0px;
+			}
+#LeftNav h3{}
+#Content{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	}
+#Footer{
+	text-align: center;
+	border:solid 8px black;
+	}
