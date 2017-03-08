@@ -1,0 +1,126 @@
+.body,.td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.essay_p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.essay_Title {
+	font-weight: 700;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	font-size: 140%;
+	color: #2d2e2e;
+}
+
+.essay_Heading {
+	margin: 5px;
+	padding: 0px;
+	font-size: 120%;
+}
+
+.essay_subHead {
+	margin: 5px;
+	padding: 0px;
+	font-size: 100%;
+}
+
+.essay_placehoderPara {
+   	color: #CC0000;
+}
+
+.essay_placeholderText{
+      color: #CC0000;
+      
+}
+
+.essay_bulletList {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 40px;
+	padding-left: 15px;
+}
+
+.essay_bullet {
+	padding-top: 4px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+	line-height: 140%;
+}
+
+.essay_quote {
+	position: static;
+	margin: 5px 5px 5px 40px;
+	font-style:italic;
+}
+.essay_link:link {
+	COLOR: #333399;
+	TEXT-DECORATION: underline;
+	font-weight: 700;
+}
+
+.essay_link:visited {
+	COLOR: #333399;
+	TEXT-DECORATION: underline;
+	font-weight: 700;
+}
+
+.essay_link:hover {
+	COLOR: #990000;
+	TEXT-DECORATION: underline;
+	font-weight: 700;
+}
+
+.essay_link:active {
+	COLOR: #333399;
+	TEXT-DECORATION: underline;
+	font-weight: 700;
+}
+
+hr {
+	color: #CCCCCC;
+}
+
+
+/* .lotsof styles is not an html style, but it does contain some useful styles that can be uses in the html styles above */
+
+.lotsofstyles {
+	font-family: "Courier New", Courier, mono;
+	font-size: 120%;
+	font-style: normal;
+	line-height: 120%;
+	font-weight: 700;
+	text-decoration: underline;
+	background-color: #FFFFCC;
+	background-image:  url(../images/head.jpg);
+	background-repeat: no-repeat;
+	margin: 15px 8px 10px 12px;
+	padding: 10px 15px 8px 100px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 3px;
+	border-left-width: 1px;
+	border-top-style: dotted;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FF0000;
+	border-right-color: #006666;
+	border-bottom-color: #0033CC;
+	border-left-color: #9900FF;
+	color: #CC0000;
+	height: 80px;
+
+}
+
+/* Computer-Zen www.computer-zen.com is part of the VORD Web Design Network www.vordweb.co.uk */
